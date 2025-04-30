@@ -1,0 +1,19 @@
+{
+  "name": "tb-1-pemograman-web-enterprise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "razif",
+  "license": "ISC",
+  "description": "TB 1 Web Enterprise",
+  "repository": {
+    "type": "git",
+    "url": "TB1-web-enterprise"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  }
+}
